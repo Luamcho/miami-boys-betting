@@ -590,10 +590,8 @@ nav ul li a{
 
 /****************************/
 
-/*¡NO TOCAR CODIGO DE AQUÍ DEBAJO!*/
 
 
-/*MUESTRA*/
 
 :root{
     --color-esqueleto:#EFF3F5;
@@ -623,14 +621,8 @@ footer{
     width: 100%;
     padding: 50px 0px;
     font-family: 'Nunito', sans-serif;
-    /*background-color: var(--color-esqueleto);*/
     background-image: url("../Images/background-footer.svg");
     background-size: cover;
-
-    /*webkit-mask-image: url("../Images/background-footer.svg");
-    mask-image: url("../Images/background-footer.svg");
-    -webkit-mask-size: cover;
-    mask-size: cover;*/
 }
 
 .container__footer{
